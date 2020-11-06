@@ -1,0 +1,23 @@
+{
+  "name": "node_threads",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viveksanthosh/node_tracing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viveksanthosh/node_tracing/issues"
+  },
+  "homepage": "https://github.com/viveksanthosh/node_tracing#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1"
+  }
+}
